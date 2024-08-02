@@ -1,7 +1,7 @@
 # \<ON TECH\> - техническая поддержка для арбитражника!
 
 <p align="center">
-  <a href="https://t.me/ontech_channel"><img src="https://on-tech.tech/on-tech-logo-1.png" alt="ON-TECH" width="500"/></a>
+  <a href="https://t.me/ontech_channel"><img src="https://on-tech.tech/images/photo_2023-03-17_13-38-00.jpg" alt="ON-TECH" width="500"/></a>
 </p>
 
 + Установка и настройка трекера - Binom/Keitaro/Zeustrack/Octotracker и тд.
